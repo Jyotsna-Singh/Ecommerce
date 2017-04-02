@@ -13,7 +13,7 @@ This Shopping App also has a fully functional admin page. Admin can add products
 1.0.0
 
 ## Live Demo
- [Ecommerce Shopping Website](http://jyotsnasingh-com.stackstaging.com/projects/Laravel/Ecommerce/)
+ [Ecommerce Shopping Website](http://jyotsnasingh.com/projects/Laravel/Ecommerce/)
 
 ## Snapshots
 
