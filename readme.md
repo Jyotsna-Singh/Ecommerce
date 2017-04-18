@@ -1,4 +1,7 @@
-# Ecommerce Website
+<p align="center">
+  <br><br>
+  <img src="https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/title.PNG">
+</p>
 
 This project is an **Ecommerce Shopping Cart Website** which allows the user to view various products, add to cart, select size of shirts, change quantity of shirt in the cart. User can then proceed to payment by logging in/signing up and giving shipping address. User will be redirected to a payment page where he/she can pay with their credit card.
 
@@ -10,24 +13,46 @@ This Shopping App also has a fully functional admin page. Admin can add products
   * Stripe Payment Integration
 
 ## Version
-1.0.0
+1.0.0 [![License](https://img.shields.io/packagist/l/cakephp/app.svg?style=flat-square)](http://jyotsnasingh.com/projects/Laravel/Ecommerce/)
 
-## Live Demo
- [Ecommerce Shopping Website](http://jyotsnasingh.com/projects/Laravel/Ecommerce/)
+## Live Demo - Ecommerce Shopping Website
+[![alt tag](https://github.com/Jyotsna-Singh/SearchVidz-YoutubeAPI/blob/master/img/green-button.PNG)](http://jyotsnasingh.com/projects/Laravel/Ecommerce/)
 
 ## Snapshots
 
-**Home Page** | **Shirts** | **Cart**
---- | --- | ---
-Home Page of Ecommerce Website | View All Shirts and Add to Cart | View Cart and proceed to payment 
-![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/home.PNG "Home")  | ![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/shirts.PNG "Shirts")  | ![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/cart.PNG "Cart") 
+**Home Page** |  
+--- | 
+Home Page of Ecommerce Website | 
+![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/home.PNG "Home")  |  !
 
-**Admin products** | **Admin Categories** | **Orders**
---- | --- | --- 
-Admin products | Admin Categories  | Orders  
-![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/addproduct.PNG "Products")  | ![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/addcategory.PNG "Categories")  | ![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/orders.PNG "Orders") 
+**Shirts** |
+--- |
+View All Shirts and Add to Cart | 
+![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/shirts.PNG "Shirts")  |
+ 
+**Cart** |
+--- |
+View Cart and proceed to payment |
+[alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/cart.PNG "Cart") |
 
+**Stripe Payment** |
+--- |
+Pay By Credit Card via Stripe |
+[alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/stripe.PNG "Stripe") |
 
+**Admin products** |  
+--- |  --- 
+Admin products |   
+![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/addproduct.PNG "Products")  |  
+
+**Admin Categories** |
+--- |
+Admin Categories  |
+![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/addcategory.PNG "Categories")  |
+
+**Orders** |
+Orders |
+![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/orders.PNG "Orders") |
 
 ## Vendors
 Laravel - [https://laravel.com/](https://laravel.com/) 
