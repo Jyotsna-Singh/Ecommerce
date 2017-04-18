@@ -1,3 +1,4 @@
+## Ecommerce Website with Stripe Integration
 <p align="center">
   <br><br>
   <img src="https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/title.PNG">
@@ -23,7 +24,7 @@ This Shopping App also has a fully functional admin page. Admin can add products
 **Home Page** |  
 --- | 
 Home Page of Ecommerce Website | 
-![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/home.PNG "Home")  |  !
+![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/home.PNG "Home")  |  
 
 **Shirts** |
 --- |
@@ -33,15 +34,15 @@ View All Shirts and Add to Cart |
 **Cart** |
 --- |
 View Cart and proceed to payment |
-[alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/cart.PNG "Cart") |
+![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/cart.PNG "Cart") |
 
 **Stripe Payment** |
 --- |
 Pay By Credit Card via Stripe |
-[alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/stripe.PNG "Stripe") |
+![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/stripe.PNG "Stripe") |
 
 **Admin products** |  
---- |  --- 
+--- |  
 Admin products |   
 ![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/addproduct.PNG "Products")  |  
 
@@ -51,6 +52,7 @@ Admin Categories  |
 ![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/addcategory.PNG "Categories")  |
 
 **Orders** |
+--- |
 Orders |
 ![alt text](https://github.com/Jyotsna-Singh/Ecommerce/blob/master/public/images/orders.PNG "Orders") |
 
